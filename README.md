@@ -1,29 +1,29 @@
 
 
-# `XLICON-V3-MD`
+# `ARIA-MD`
 <br>
 <br>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=Its%20XLICON-V3-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20SALMAN%20AHMAD)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=Its%20ARIA-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20ABHINAV%20)
 <p align="center">
   
->XLICON-V3-MD is based on :
+>ARIA-MD is based on :
 >- [Cheems V10](https://github.com/DGXeon) by [DGXeon](https://github.com/DGXeon) (License: Apache License 2.0)
 >
 > :unicorn: Don't forget to check out! :point_right: [Cheems V10](https://github.com/DGXeon)
 </p>
 
 ## 🌟 `Bot Intro and Features`
-[![XLICON](https://i.ibb.co/sgdGM1P/XLICON-V3.jpg)](https://youtube.com/@s4salmanyt)
+[![ARIA](./XliconMedia/theme/xliconpic.jpg)](https://youtube.com/@s4manyt)
 
 <p align="center">
-<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/CREATOR-SALMAN SER-black.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ABHINAV-321"><img title="Author" src="https://img.shields.io/badge/CREATOR-SALMAN SER-black.svg?style=for-the-badge&logo=github"></a>
 
 ### ℹ️ **About XLICON-V3**
-XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [Salman Ahamed](https://github.com/salmanytofficial). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+ARIA MD is a Cool Multi-Device WhatsApp bot developed by [ABHINAV](https://github.com/ABHINAV-321). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V3}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V3}/count.svg" alt="ABHINAV :: Visitor's Count" /></p>
 
 ### 📊 **Bot Statistics**
 <p align="center">
@@ -42,25 +42,25 @@ XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [Salman Ahamed](https
   
 ####
 
-*XLICON-V3* - A Advanced Multi Device whatsapp bot Based on *CHEEMS V10*
+*ARIA-* - A Advanced Multi Device whatsapp bot Based on *CHEEMS V10*
 -------
 
 ***
 
 ## ⭐ `Star This Repo`
-If you find XLICON-V3-MD helpful, consider giving it a star ⭐ to show your appreciation.
+If you find ARIA-MD helpful, consider giving it a star ⭐ to show your appreciation.
 
 Thanks to all contributors! 🚀
 
 ## 💲 ```Donate Me```
 
-- [`Buy ME A Coffee ☕ `](https://i.ibb.co/SBXWb1R/donate.jpg)
+- [`Buy ME A Coffee ☕ `](https://i.ibb.co/SBGBXWb1R/donate.jpg)
 
 <p align="left">
 Scan qr code from the above button, u can pay through Buy Me A Coffee...
 </p>
 
-- [`Support Me On Patreon ☕ `](https://www.patreon.com/ahmmikun/membership)
+- [`Support Me On Patreon ☕ `](https://www.patreonHGGG.com/ahmmikun/membership)
 
 <p align="left">
 Click On The Link To Donate ME...

@@ -20,7 +20,7 @@
 <p align="center">
 <a href="https://github.com/ABHINAV-321"><img title="Author" src="https://img.shields.io/badge/CREATOR-SALMAN SER-black.svg?style=for-the-badge&logo=github"></a>
 
-### ℹ️ **About XLICON-V3**
+### ℹ️ **About Aria-V3**
 ARIA MD is a Cool Multi-Device WhatsApp bot developed by [ABHINAV](https://github.com/ABHINAV-321). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V3}/count.svg" alt="ABHINAV :: Visitor's Count" /></p>
